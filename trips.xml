@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record type="trip">
+        <id>1</id>
+        <location>Bohemian Switzerland</location>
+        <capacity>5</capacity>
+        <occupied>0</occupied>
+    </record>
+    <record type="trip">
+        <id>2</id>
+        <location>Prague</location>
+        <capacity>2</capacity>
+        <occupied>0</occupied>
+    </record>
+</records>
